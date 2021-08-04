@@ -1,5 +1,9 @@
 # Strumming sequences for ukulele
 
+## Songs
+
+- [Russian anthem](strumming/russian_anthem.md)
+
 ## TODO
 
 - Sherlock Theme. Ukulele tutorial  
