@@ -13,7 +13,6 @@
 - Europe - The Final Countdown. Ukulele tutorial
 - Super Mario Bros. Ukulele tutorial
 - Tetris Theme
-- a-ha - Take On Me. Ukulele tutorial
 - Kavinsky - Nightcall. Ukulele tutorial
 - Eiffel 65 - I'm blue. Ukulele tutorial
 - Nokia Tune. Ukulele tutorial  
