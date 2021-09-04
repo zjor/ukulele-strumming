@@ -3,6 +3,7 @@
 ## Songs
 
 - [Russian anthem](strumming/russian_anthem.md)
+- [A-ha - Take on me](strumming/a_ha_take_on_me.md)
 
 ## TODO
 
