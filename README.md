@@ -4,13 +4,13 @@
 
 - [Russian anthem](strumming/russian_anthem.md)
 - [A-ha - Take on me](strumming/a_ha_take_on_me.md)
+- [Europe - The Final Countdown](strumming/europe_the_final_countdown.md)
 
 ## TODO
 
 - Sherlock Theme. Ukulele tutorial  
 - Electric Six - Gay Bar. Ukulele tutorial
 - Star Wars - The Imperial March. Ukulele tutorial
-- Europe - The Final Countdown. Ukulele tutorial
 - Super Mario Bros. Ukulele tutorial
 - Tetris Theme
 - Kavinsky - Nightcall. Ukulele tutorial
