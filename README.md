@@ -5,6 +5,7 @@
 - [Russian anthem](strumming/russian_anthem.md)
 - [A-ha - Take on me](strumming/a_ha_take_on_me.md)
 - [Europe - The Final Countdown](strumming/europe_the_final_countdown.md)
+- [Kavinsky - Nightcall](strumming/kavinsky_night_call.md)
 
 ## TODO
 
@@ -13,7 +14,6 @@
 - Star Wars - The Imperial March. Ukulele tutorial
 - Super Mario Bros. Ukulele tutorial
 - Tetris Theme
-- Kavinsky - Nightcall. Ukulele tutorial
 - Eiffel 65 - I'm blue. Ukulele tutorial
 - Nokia Tune. Ukulele tutorial  
 - Soundtrack to the Russian film "Boomer". Ukulele tutorial
