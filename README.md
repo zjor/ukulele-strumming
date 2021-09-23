@@ -6,6 +6,7 @@
 - [A-ha - Take on me](strumming/a_ha_take_on_me.md)
 - [Europe - The Final Countdown](strumming/europe_the_final_countdown.md)
 - [Kavinsky - Nightcall](strumming/kavinsky_night_call.md)
+- [Sherlok theme](strumming/sherlok_theme.md)
 
 ## TODO
 
