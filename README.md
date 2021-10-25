@@ -7,11 +7,10 @@
 - [Europe - The Final Countdown](strumming/europe_the_final_countdown.md)
 - [Kavinsky - Nightcall](strumming/kavinsky_night_call.md)
 - [Sherlok theme](strumming/sherlok_theme.md)
+- [Electric Six - Gay Bar](strumming/electric_six_gay_bar.md)
 
 ## TODO
 
-- Sherlock Theme. Ukulele tutorial  
-- Electric Six - Gay Bar. Ukulele tutorial
 - Star Wars - The Imperial March. Ukulele tutorial
 - Super Mario Bros. Ukulele tutorial
 - Tetris Theme
