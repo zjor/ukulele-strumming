@@ -8,15 +8,14 @@
 - [Kavinsky - Nightcall](strumming/kavinsky_night_call.md)
 - [Sherlok theme](strumming/sherlok_theme.md)
 - [Electric Six - Gay Bar](strumming/electric_six_gay_bar.md)
+- [Star Wars - The Imperial March](strumming/star_wars_imperial_march.md)
 
 ## TODO
 
-- Star Wars - The Imperial March. Ukulele tutorial
 - Super Mario Bros. Ukulele tutorial
 - Tetris Theme
 - Eiffel 65 - I'm blue. Ukulele tutorial
 - Nokia Tune. Ukulele tutorial  
-- Soundtrack to the Russian film "Boomer". Ukulele tutorial
 - The Beatles - Yesterday. Ukulele lesson
 
 ## References
