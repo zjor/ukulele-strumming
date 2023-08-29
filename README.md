@@ -9,6 +9,7 @@
 - [Sherlok theme](strumming/sherlok_theme.md)
 - [Electric Six - Gay Bar](strumming/electric_six_gay_bar.md)
 - [Star Wars - The Imperial March](strumming/star_wars_imperial_march.md)
+- [Popcorn](strumming/popcorn.md)
 
 ## TODO
 
